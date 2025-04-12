@@ -19,4 +19,4 @@ Now with support for both `.lua` and `.st` files!
 - If you encounter errors, try using a **VPN**.
 - Supports local `.lua` or `.st` files using manifests from supported repositories.
 Thanks to **Prosub** for adding `.st` file support.
--### Password rar : 123
+- ### Password rar : 123
