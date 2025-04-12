@@ -1,4 +1,5 @@
 # Lua Mani Updater v1.4
+### Password rar : 123
 
 Now with support for both `.lua` and `.st` files!  
 ---
