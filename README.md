@@ -23,6 +23,9 @@ Now with support for both `.lua` and `.st` files!
 
 Thanks to **Prosub** for adding `.st` file support.
 
+![rise3251](https://github.com/user-attachments/assets/8df4bcb8-c632-444e-82dd-073021ded7de)
+
+
 
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------
@@ -51,3 +54,4 @@ Now with support for both `.lua` and `.st` files!
 
 Thanks to **Prosub** for adding `.st` file support.
 - ### Password rar : 123
+![image](https://github.com/user-attachments/assets/b58d418a-f8fe-4c66-86f5-7ed046427635)
