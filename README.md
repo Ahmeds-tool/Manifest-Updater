@@ -22,7 +22,7 @@ Now with support for both `.lua` and `.st` files!
 - Supports local `.lua` or `.st` files using manifests from supported repositories.
 
 Thanks to **Prosub** for adding `.st` file support.
-
+Credits to blankTming for Repo
 
 ![image](https://github.com/user-attachments/assets/3d35acce-55c5-41dd-9fc0-4f40bcbf21b7)
 
