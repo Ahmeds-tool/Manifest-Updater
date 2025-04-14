@@ -23,6 +23,10 @@ Now with support for both `.lua` and `.st` files!
 
 Thanks to **Prosub** for adding `.st` file support.
 
+
+![image](https://github.com/user-attachments/assets/3d35acce-55c5-41dd-9fc0-4f40bcbf21b7)
+
+
 ![rise3251](https://github.com/user-attachments/assets/8df4bcb8-c632-444e-82dd-073021ded7de)
 
 
