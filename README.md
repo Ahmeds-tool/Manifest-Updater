@@ -24,7 +24,7 @@ Now with support for both `.lua` and `.st` files!
 Thanks to **Prosub** for adding `.st` file support.
 
 
-Credits to **BlankTMing** for Repo
+also Credits to **BlankTMing** for Repo
 
 
 
