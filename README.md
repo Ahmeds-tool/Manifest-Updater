@@ -55,7 +55,7 @@ Now with support for both `.lua` and `.st` files!
 
 ---
 
-## ⚠️ Notes
+## Notes
 
 - If you encounter errors, try using a **VPN**.
 - Supports local `.lua` or `.st` files using manifests from supported repositories.
