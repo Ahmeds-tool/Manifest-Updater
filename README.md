@@ -7,7 +7,7 @@ Now with support for both `.lua` and `.st` files!
 
 ## Update v1.5
 
-- 🖱️ drag-and-drop loacal Lua or manifest to give you latest lua and manifest  
+- 🖱️ drag-and-drop loacal Lua or St to give you latest lua and manifest  
 - 🎨 Enhanced the user interface  
 - 🎮 Now displays the game during updates  
 - 📂 Added option to browse and select location  
