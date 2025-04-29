@@ -1,4 +1,4 @@
-# Lua Mani Updater v1.5
+# Lua Mani Updater v1.6
 
 Now with support for both `.lua` and `.st` files!  
 ---
