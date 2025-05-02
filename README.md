@@ -5,7 +5,7 @@ Now with support for both `.lua` and `.st` files!
 
 ## 🚀 How to Use
 
-## Update v1.6
+## Update v1.7
 
 - 🖱️ drag-and-drop loacal Lua or St to give you latest lua and manifest  
 - 🎨 Enhanced the user interface  
