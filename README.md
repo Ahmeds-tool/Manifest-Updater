@@ -1,11 +1,11 @@
-# Lua Mani Updater v1.7
+# Lua Mani Updater v1.8
 
 Now with support for both `.lua` and `.st` files!  
 ---
 
 ## 🚀 How to Use
 
-## Update v1.7
+## Update v1.8
 
 - 🖱️ drag-and-drop loacal Lua or St to give you latest lua and manifest  
 - 🎨 Enhanced the user interface  
@@ -25,7 +25,8 @@ Thanks to **Prosub** for adding `.st` file support.
 
 
 
-![image](https://github.com/user-attachments/assets/df112b20-5ab5-40c1-8a88-2886421b531c)
+![image](https://github.com/user-attachments/assets/dc2f6e7e-6c37-40ea-ad9c-533442c9c61e)
+
 
 
 
