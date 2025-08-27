@@ -3,7 +3,7 @@
 Now with support for both `.lua` and `.st` files!  
 ---
 
-## 🚀 How to Use
+##  How to Use
 
 ## Updater
 
@@ -13,7 +13,7 @@ Now with support for both `.lua` and `.st` files!
 - 📂 Added option to browse and select location  
 
 5. The tool will update your Lua/St file and fetch the latest manifest.
-
+6. Added Manual Manifest Downloader just by Writing Depot id and Manifest Id
 ---
 
 ##  Notes
@@ -23,9 +23,8 @@ Now with support for both `.lua` and `.st` files!
 
 Thanks to **Prosub** for adding `.st` file support.
 
+<img width="490" height="767" alt="image" src="https://github.com/user-attachments/assets/25e56d70-879a-4d32-8127-edb80330d507" /> <img width="397" height="325" alt="image" src="https://github.com/user-attachments/assets/28b7ba5e-a8b6-42eb-bd8e-b6567525be50" />
 
-
-![image](https://github.com/user-attachments/assets/dc2f6e7e-6c37-40ea-ad9c-533442c9c61e)
 
 
 
