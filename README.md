@@ -3,7 +3,7 @@ Added Manual Manifest Downloader
 
 
 
-Also Special Thanks to Oureveryday
+## Also Special Thanks to Oureveryday
 
 
 
