@@ -1,6 +1,11 @@
 # Lua Mani Updater
 Added Manual Manifest Downloader
+
+
+
 Also Special Thanks to Oureveryday
+
+
 
 Now with support for both `.lua` and `.st` files!  
 ---
